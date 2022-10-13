@@ -7,7 +7,7 @@ export default function Navbar() {
         StoneGreen
       </Link>
       <ul>
-        <CustomLink to="/pricing">Pricing</CustomLink>
+        <CustomLink to="/post">Post</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>
     </nav>
